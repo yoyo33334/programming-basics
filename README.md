@@ -5,8 +5,8 @@
 <li><a href="https://www.dunieskiotano.com" target="_blank">Booleans</a></li>
 <li><a href="https://www.dunieskiotano.com" target="_blank">Collections</a></li>
 <ul>
-<li><a href="https://github.com/dunieskiotano/programming-basics/tree/master/Collections/Arrays" target="_blank">Arrays</a> 
- <li><a href="" target="_blank">Tuples</a></li>
+<li><a href="#" target="_blank">Arrays</a> 
+ <li><a href="https://github.com/dunieskiotano/programming-basics/tree/master/Collections/Tuples" target="_blank">Tuples</a></li>
   <li><a href="" target="_blank">Lists</a></li>
   <li><a href="" target="_blank">Sets</a></li>
   </ul>
