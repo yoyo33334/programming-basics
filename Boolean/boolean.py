@@ -9,8 +9,7 @@ name = str(input("Enter your name >> "))
 
 if(name == 'Aicha' or name == 'Daniel' or name == 'Pushpa'):
     isFromNCI = True
-else:
-    isFromNCI
+
 
 if(isFromNCI):
     print('{} studies at NCI'.format(name))
