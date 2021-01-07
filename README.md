@@ -3,10 +3,10 @@
 1. <a href="https://www.dunieskiotano.com" target="_blank">Booleans</a>
 2. <a href="https://www.dunieskiotano.com" target="_blank">Collections</a>
 <ul>
-  <li><a href="" target="_blank">Arrays</li>
-  <li>Tuples</li>
-  <li>Lists</li>
-  <li>Sets</li>
+  <li><a href="" target="_blank">Arrays</a></li>
+  <li><a href="" target="_blank">Tuples</a></li>
+  <li><a href="" target="_blank">Lists</a></li>
+  <li><a href="" target="_blank">Sets</a></li>
 </ul>
   
 3. <a href="https://www.dunieskiotano.com" target="_blank">Conditionals</a>
