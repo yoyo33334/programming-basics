@@ -1,4 +1,5 @@
 <h1>Programming Basics</h1>
+<h2>The link menu below contains direct links to every folder in the Programming Basics Git repo.</h2>
 
 <ol>
 <li><a href="https://www.dunieskiotano.com" target="_blank">Booleans</a></li>
