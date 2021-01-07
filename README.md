@@ -3,7 +3,7 @@
 1. <a href="https://www.dunieskiotano.com" target="_blank">Booleans</a>
 2. <a href="https://www.dunieskiotano.com" target="_blank">Collections</a>
 <ul>
-  <li>Arrays</li>
+  <li><a href="" target="_blank">Arrays</li>
   <li>Tuples</li>
   <li>Lists</li>
   <li>Sets</li>
