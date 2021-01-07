@@ -10,7 +10,7 @@
 </ul>
   
 3. <a href="https://www.dunieskiotano.com" target="_blank">Conditionals</a>
-4. <a href="https://www.dunieskiotano.com" target="_blank">Data Types</a>
+4. <a href="https://github.com/dunieskiotano/programming-basics/tree/master/Data%20Types" target="_blank">Data Types</a>
 5. <a href="https://www.dunieskiotano.com" target="_blank">Functions</a>
 6. <a href="https://www.dunieskiotano.com" target="_blank">Methods</a>
 
