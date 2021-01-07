@@ -2,10 +2,12 @@
 
 1. <a href="https://www.dunieskiotano.com" target="_blank">Booleans</a>
 2. <a href="https://www.dunieskiotano.com" target="_blank">Collections</a>
-<ul><li>Arrays</li>
+<ul>
+  <li>Arrays</li>
   <li>Tuples</li>
   <li>Lists</li>
   <li>Sets</li>
+</ul>
   
 3. <a href="https://www.dunieskiotano.com" target="_blank">Conditionals</a>
 4. <a href="https://www.dunieskiotano.com" target="_blank">Data Types</a>
