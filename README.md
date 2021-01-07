@@ -12,7 +12,7 @@
   </ul>
 <li><a href="#" target="_blank">Conditionals</a></li>
 <li><a href="https://github.com/dunieskiotano/programming-basics/tree/master/Data%20Types" target="_blank">Data Types</a></li>
-<li><a href="#" target="_blank">Functions</a></li>
+<li><a href="https://github.com/dunieskiotano/programming-basics/tree/master/Functions" target="_blank">Functions</a></li>
 <li><a href="#" target="_blank">Methods</a></li>
 <ol>
 
